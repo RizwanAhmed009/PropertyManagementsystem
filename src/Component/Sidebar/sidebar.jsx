@@ -4,7 +4,7 @@ const Sidebar = () => {
   return (
    <div className="sidebar">
     <div className="sidebar__top">
-     <h2> <span><i class="ri-car-line"></i></span> Uber Taxi</h2>
+     <h2> <span><i class="ri-car-line"></i></span> Uber</h2>
     </div>
     <div className="sidebar__content">
       <div className="menu">
